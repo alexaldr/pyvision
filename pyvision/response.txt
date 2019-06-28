@@ -1,0 +1,127 @@
+[mid: "/m/0199g"
+name: "Bicycle"
+score: 0.8472630381584167
+bounding_poly {
+  normalized_vertices {
+    x: 0.10537159442901611
+    y: 0.3218019902706146
+  }
+  normalized_vertices {
+    x: 0.5190989971160889
+    y: 0.3218019902706146
+  }
+  normalized_vertices {
+    x: 0.5190989971160889
+    y: 0.9831393361091614
+  }
+  normalized_vertices {
+    x: 0.10537159442901611
+    y: 0.9831393361091614
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.7811035513877869
+bounding_poly {
+  normalized_vertices {
+    x: 0.3101027011871338
+    y: 0.06579851359128952
+  }
+  normalized_vertices {
+    x: 0.580720841884613
+    y: 0.06579851359128952
+  }
+  normalized_vertices {
+    x: 0.580720841884613
+    y: 0.8890250325202942
+  }
+  normalized_vertices {
+    x: 0.3101027011871338
+    y: 0.8890250325202942
+  }
+}
+, mid: "/m/01bqk0"
+name: "Bicycle wheel"
+score: 0.7308304905891418
+bounding_poly {
+  normalized_vertices {
+    x: 0.1295810341835022
+    y: 0.5357503294944763
+  }
+  normalized_vertices {
+    x: 0.3628895580768585
+    y: 0.5357503294944763
+  }
+  normalized_vertices {
+    x: 0.3628895580768585
+    y: 0.9548379182815552
+  }
+  normalized_vertices {
+    x: 0.1295810341835022
+    y: 0.9548379182815552
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.6089702248573303
+bounding_poly {
+  normalized_vertices {
+    x: 0.16516152024269104
+    y: 0.055916160345077515
+  }
+  normalized_vertices {
+    x: 0.3698973059654236
+    y: 0.055916160345077515
+  }
+  normalized_vertices {
+    x: 0.3698973059654236
+    y: 0.831613302230835
+  }
+  normalized_vertices {
+    x: 0.16516152024269104
+    y: 0.831613302230835
+  }
+}
+, mid: "/m/0h9mv"
+name: "Tire"
+score: 0.527623176574707
+bounding_poly {
+  normalized_vertices {
+    x: 0.1295810341835022
+    y: 0.5357503294944763
+  }
+  normalized_vertices {
+    x: 0.3628895580768585
+    y: 0.5357503294944763
+  }
+  normalized_vertices {
+    x: 0.3628895580768585
+    y: 0.9548379182815552
+  }
+  normalized_vertices {
+    x: 0.1295810341835022
+    y: 0.9548379182815552
+  }
+}
+, mid: "/m/01g317"
+name: "Person"
+score: 0.5094335675239563
+bounding_poly {
+  normalized_vertices {
+    x: 0.3101027011871338
+    y: 0.06579851359128952
+  }
+  normalized_vertices {
+    x: 0.580720841884613
+    y: 0.06579851359128952
+  }
+  normalized_vertices {
+    x: 0.580720841884613
+    y: 0.8890250325202942
+  }
+  normalized_vertices {
+    x: 0.3101027011871338
+    y: 0.8890250325202942
+  }
+}
+]
