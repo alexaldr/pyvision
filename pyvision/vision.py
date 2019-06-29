@@ -60,7 +60,7 @@ for _object in objects:
 #choosing only objects with best score, if duplicated
 unique_objects = objects_list.copy()
 for _object in objects_list:
-    for single in unique_objects:
+    for single in list(unique_objects):
         if _object["vertice"] == single["vertice"] and _object["score"] > single["score"]:
             unique_objects.remove(single)
 
